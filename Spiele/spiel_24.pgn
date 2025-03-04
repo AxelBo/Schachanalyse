@@ -1,0 +1,64 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.02"]
+[Round "?"]
+[White "OhBoys"]
+[Black "SHRIkant2727"]
+[Result "1-0"]
+[TimeControl "60"]
+[WhiteElo "440"]
+[BlackElo "393"]
+[Termination "OhBoys won on time"]
+[ECO "A45"]
+[EndTime "17:09:08 GMT+0000"]
+[Link "https://www.chess.com/game/live/121875180224"]
+
+1. e4 {[%clk 0:00:59.9][%timestamp 1]} 1... Nf6 {[%clk 0:00:59.7][%timestamp 3]}
+2. d4 {[%clk 0:00:59.7][%timestamp 2]} 2... Nxe4 {[%clk 0:00:57.8][%timestamp
+19]} 3. f3 {[%clk 0:00:58.9][%timestamp 8]} 3... Nf6 {[%clk
+0:00:57.1][%timestamp 7]} 4. Bg5 {[%clk 0:00:56.7][%timestamp 22]} 4... e6
+{[%clk 0:00:55.2][%timestamp 19]} 5. Nc3 {[%clk 0:00:56.6][%timestamp 1]} 5...
+d6 {[%clk 0:00:53.4][%timestamp 18]} 6. Bxf6 {[%clk 0:00:55.6][%timestamp 10]}
+6... Qxf6 {[%clk 0:00:50.2][%timestamp 32]} 7. Bb5+ {[%clk 0:00:55][%timestamp
+6]} 7... c6 {[%clk 0:00:48.8][%timestamp 14]} 8. Bd3 {[%clk
+0:00:53.6][%timestamp 14]} 8... Bd7 {[%clk 0:00:47.7][%timestamp 11]} 9. Nh3
+{[%clk 0:00:50.7][%timestamp 29]} 9... d5 {[%clk 0:00:46.7][%timestamp 10]} 10.
+Qe2 {[%clk 0:00:48.3][%timestamp 24]} 10... Bb4 {[%clk 0:00:45.9][%timestamp 8]}
+11. a3 {[%clk 0:00:46.9][%timestamp 14]} 11... Bxc3+ {[%clk
+0:00:45.2][%timestamp 7]} 12. bxc3 {[%clk 0:00:46.8][%timestamp 1]} 12... b5
+{[%clk 0:00:43.3][%timestamp 19]} 13. a4 {[%clk 0:00:44][%timestamp 28]} 13...
+bxa4 {[%clk 0:00:41.7][%timestamp 16]} 14. Rxa4 {[%clk 0:00:43.9][%timestamp 1]}
+14... c5 {[%clk 0:00:39.6][%timestamp 21]} 15. Ra5 {[%clk 0:00:40.4][%timestamp
+35]} 15... Nc6 {[%clk 0:00:37][%timestamp 26]} 16. Rxc5 {[%clk
+0:00:39.2][%timestamp 12]} 16... a5 {[%clk 0:00:32.8][%timestamp 42]} 17. Nf4
+{[%clk 0:00:34.6][%timestamp 46]} 17... a4 {[%clk 0:00:32][%timestamp 8]} 18.
+Nxe6 {[%clk 0:00:33.2][%timestamp 14]} 18... Bxe6 {[%clk 0:00:30.8][%timestamp
+12]} 19. Rxc6 {[%clk 0:00:30.5][%timestamp 27]} 19... O-O {[%clk
+0:00:29.9][%timestamp 9]} 20. Rxe6 {[%clk 0:00:28.5][%timestamp 20]} 20... Qg5
+{[%clk 0:00:24.5][%timestamp 54]} 21. Qe3 {[%clk 0:00:22.4][%timestamp 61]}
+21... Qxe3+ {[%clk 0:00:22.9][%timestamp 16]} 22. Rxe3 {[%clk
+0:00:21.4][%timestamp 10]} 22... a3 {[%clk 0:00:20.2][%timestamp 27]} 23. O-O
+{[%clk 0:00:20.6][%timestamp 8]} 23... a2 {[%clk 0:00:19.5][%timestamp 7]} 24.
+Ra1 {[%clk 0:00:19.8][%timestamp 8]} 24... h5 {[%clk 0:00:14.1][%timestamp 54]}
+25. g4 {[%clk 0:00:17.6][%timestamp 22]} 25... hxg4 {[%clk 0:00:12.4][%timestamp
+17]} 26. fxg4 {[%clk 0:00:17.5][%timestamp 1]} 26... g6 {[%clk
+0:00:10.8][%timestamp 16]} 27. c4 {[%clk 0:00:16.4][%timestamp 11]} 27... Kg7
+{[%clk 0:00:10.2][%timestamp 6]} 28. cxd5 {[%clk 0:00:15.1][%timestamp 13]}
+28... Rfd8 {[%clk 0:00:09][%timestamp 12]} 29. Bc4 {[%clk 0:00:13.8][%timestamp
+13]} 29... Rac8 {[%clk 0:00:06.9][%timestamp 21]} 30. Rxa2 {[%clk
+0:00:09.5][%timestamp 43]} 30... Rxc4 {[%clk 0:00:05.4][%timestamp 15]} 31. Ra7
+{[%clk 0:00:07.5][%timestamp 20]} 31... Rxc2 {[%clk 0:00:00.8][%timestamp 46]}
+32. Ree7 {[%clk 0:00:05.8][%timestamp 17]} 1-0
+Move 0: +Gabel
+Move 0: +Fesselung
+Move 0: -Blob3
+Move 0: -Fesselung uebersehen
+Move 0: -Doppelangriff nicht erkannt
+Move 0: -Blob
+Move 0: -Blob2
+Move 0: -Blob3
+Move 0: -Gabel uebersehen
+Move 0: +Blob3
+Move 0: +Blob2
+Move 0: +Gabel
+Gutes Game :D

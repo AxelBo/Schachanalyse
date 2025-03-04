@@ -1,0 +1,16 @@
++Gabel
++Fesselung
++Blob
++Blob2
++Blob3
+-Gabel uebersehen
+-Fesselung uebersehen 
+-Doppelangriff nicht erkannt
+-Blob
+-Blob2
+-Blob3
+-Fesselung uebersehen 
+-Doppelangriff nicht erkannt
+-Blob
+-Blob2
+-Blob3

@@ -1,0 +1,28 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/p88xDOjo"]
+[Date "2025.02.14"]
+[White "marcofaro74"]
+[Black "Schaxel2"]
+[Result "1-0"]
+[GameId "p88xDOjo"]
+[UTCDate "2025.02.14"]
+[UTCTime "08:34:00"]
+[WhiteElo "1272"]
+[BlackElo "1205"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-119"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense, Damiano Gambit"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:05:01] } 2... f6 { [%clk 0:05:01] } 3. Nxe5 { [%clk 0:05:00] } 3... fxe5 { [%clk 0:05:02] } 4. Qh5+ { [%clk 0:04:59] } 4... g6 { [%clk 0:04:54] } 5. Qxe5+ { [%clk 0:05:01] } 5... Qe7 { [%clk 0:04:49] } 6. Qxh8 { [%clk 0:05:01] } { C40 King's Pawn Game: Damiano Defense, Damiano Gambit } 6... Qxe4+ { [%clk 0:04:43] } 7. Be2 { [%clk 0:04:59] } 7... Qxc2 { [%clk 0:04:42] } 8. O-O { [%clk 0:04:41] } 8... Ne7 { [%clk 0:04:12] } 9. Na3 { [%clk 0:04:26] } 9... Qe4 { [%clk 0:03:49] } 10. d3 { [%clk 0:04:26] } 10... Qxe2 { [%clk 0:03:48] } 11. Bh6 { [%clk 0:04:27] } 11... d5 { [%clk 0:02:46] } 12. Qxf8+ { [%clk 0:04:26] } 12... Kd7 { [%clk 0:02:48] } 13. Bg5 { [%clk 0:03:48] } 13... Nbc6 { [%clk 0:02:35] } 14. Bxe7 { [%clk 0:03:40] } 14... Nxe7 { [%clk 0:02:36] } 15. Rae1 { [%clk 0:03:31] } 15... Qxd3 { [%clk 0:01:39] } 16. Qxe7+ { [%clk 0:03:30] } 16... Kc6 { [%clk 0:01:41] } 17. Rc1+ { [%clk 0:03:23] } 17... Kb6 { [%clk 0:01:31] } 18. Qxc7+ { [%clk 0:03:15] } 18... Ka6 { [%clk 0:01:28] } 19. Qd6+ { [%clk 0:03:12] } 19... Ka5 { [%clk 0:01:26] } 20. Rc5+ { [%clk 0:02:36] } 20... Kb4 { [%clk 0:01:20] } 21. Nc2+ { [%clk 0:02:33] } 21... Ka4 { [%clk 0:01:18] } 22. b3+ { [%clk 0:02:28] } 22... Qxb3 { [%clk 0:01:11] } 23. axb3+ { [%clk 0:02:26] } 23... Kxb3 { [%clk 0:01:14] } 24. Qxd5+ { [%clk 0:02:23] } 24... Kb2 { [%clk 0:01:16] } 25. Nd4 { [%clk 0:02:22] } 25... Bg4 { [%clk 0:01:11] } 26. Rb5+ { [%clk 0:02:22] } 26... Kc3 { [%clk 0:01:13] } 27. Rb3+ { [%clk 0:02:22] } 27... Kd2 { [%clk 0:01:14] } 28. Nf3+ { [%clk 0:02:19] } 28... Ke2 { [%clk 0:01:11] } 29. Qd1# { [%clk 0:02:15] } { White wins by checkmate. } 1-0
+Move 57: +Gabel
+Move 57: +Gabel
+Move 57: +Gabel
+Move 57: +Gabel
+Move 57: +Gabel
+Move 57: +Gabel
+Move 57: +Gabel

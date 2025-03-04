@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.02.23"]
+[Round "?"]
+[White "OhBoys"]
+[Black "FairwayToHeaven"]
+[Result "1-0"]
+[TimeControl "300+5"]
+[WhiteElo "455"]
+[BlackElo "460"]
+[Termination "OhBoys won on time"]
+[ECO "B00"]
+[EndTime "3:02:22 GMT+0000"]
+[Link "https://www.chess.com/game/live/123187625012"]
+
+1. e4 {[%clk 0:05:04.5][%timestamp 5]} 1... b6 {[%clk 0:05:03.5][%timestamp 15]}
+2. d4 {[%clk 0:05:08.1][%timestamp 14]} 2... Bb7 {[%clk 0:05:07.3][%timestamp
+12]} 3. Bd3 {[%clk 0:05:09.7][%timestamp 34]} 3... e6 {[%clk
+0:05:08.1][%timestamp 42]} 4. Be3 {[%clk 0:05:13.5][%timestamp 12]} 4... Nf6
+{[%clk 0:05:04.1][%timestamp 90]} 5. Nc3 {[%clk 0:05:15.4][%timestamp 31]} 5...
+Bb4 {[%clk 0:05:06.9][%timestamp 22]} 6. Qd2 {[%clk 0:05:12.5][%timestamp 79]}
+6... Bxe4 {[%clk 0:04:29.8][%timestamp 421]} 7. a3 {[%clk 0:05:03.4][%timestamp
+141]} 7... Bxc3 {[%clk 0:03:52.9][%timestamp 419]} 8. bxc3 {[%clk
+0:05:08.3][%timestamp 1]} 8... Bxg2 {[%clk 0:03:56.8][%timestamp 11]} 9. O-O-O
+{[%clk 0:04:18.7][%timestamp 546]} 9... Bxh1 {[%clk 0:03:57.7][%timestamp 41]}
+10. Qe2 {[%clk 0:04:10.6][%timestamp 131]} 10... O-O {[%clk
+0:02:46.6][%timestamp 761]} 11. Nf3 {[%clk 0:04:09.2][%timestamp 64]} 11... Bxf3
+{[%clk 0:02:34.2][%timestamp 174]} 12. Qxf3 {[%clk 0:04:14.1][%timestamp 1]}
+12... Nc6 {[%clk 0:02:10.7][%timestamp 285]} 13. Bg5 {[%clk
+0:04:12.7][%timestamp 64]} 13... h6 {[%clk 0:01:48.1][%timestamp 276]} 14. Bxf6
+{[%clk 0:04:13.1][%timestamp 46]} 14... Qxf6 {[%clk 0:01:43.6][%timestamp 95]}
+15. Qe4 {[%clk 0:04:10.2][%timestamp 79]} 15... Qg5+ {[%clk 0:01:10][%timestamp
+386]} 16. Kb1 {[%clk 0:04:00.7][%timestamp 145]} 16... f5 {[%clk
+0:01:12.1][%timestamp 29]} 17. Qe2 {[%clk 0:03:40][%timestamp 257]} 17... a5
+{[%clk 0:01:05.9][%timestamp 112]} 18. d5 {[%clk 0:03:25.4][%timestamp 196]}
+18... Ne7 {[%clk 0:01:00.5][%timestamp 104]} 19. dxe6 {[%clk
+0:03:21.5][%timestamp 89]} 19... d6 {[%clk 0:01:02.5][%timestamp 30]} 20. h4
+{[%clk 0:02:58][%timestamp 285]} 20... Qf6 {[%clk 0:01:05.3][%timestamp 22]} 21.
+Qh5 {[%clk 0:02:36.3][%timestamp 267]} 21... c5 {[%clk 0:00:21][%timestamp 493]}
+22. Bb5 {[%clk 0:02:16][%timestamp 253]} 22... Ng6 {[%clk 0:00:12.2][%timestamp
+138]} 23. Re1 {[%clk 0:02:06.4][%timestamp 146]} 23... Ne5 {[%clk
+0:00:12.9][%timestamp 43]} 24. f4 {[%clk 0:01:58.9][%timestamp 125]} 1-0
+Move 9: +Gabel
+Move 47: +Blob
